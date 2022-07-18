@@ -13,7 +13,22 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-xl-9 col-lg-9 text-extra-dark-gray margin-six-bottom  last-paragraph-no-margin">
-                    <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block sm-width-100">A place where
+                    <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block sm-width-100">
+                        
+                    Our initiative seeks to adopt the Peacebuilding, Conflict prevention
+                          and preventive diplomacy model which undertakes activities that vary from 
+                          broad and long-term, to targeted and short-term, and can be employed simultaneously. Our 
+                          preventive work is to 
+                          urge restraint and facilitate the de-escalation that paves the way for reconciliation. We are 
+                          focused on stabilising 
+                          the situations in conflict-sensitive areas, improving inter-ethnic relations, building trust 
+                          between the communities, and facilitating access to justice. Focusing on peacebuilding and livelihoods
+                           in the hardest hit conflict areas, the programme will reduce tensions and avert further violent incidents 
+                           in the local communities, strengthening the 
+                          capacity of local authorities,  other civil society organizations, including women organizations, to design 
+                          social policies and advocate for their communities.
+                    
+                   <br><br> A place where
                         we can educate a future
                         generation of peacebuilders. And a space to transform our mindset. Empowering civic action
                         toward a culture of peace,
