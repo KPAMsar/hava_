@@ -156,8 +156,8 @@
                         We fight for gender justice<br>
                         We demand accountable governance on issues relating to the marginalized<br>
                         We tackle inequalities that drive poverty<br>
-                        We engage in peace building education amongst the youths<br>
-                        We educate the youths on nation building, patriotic culture and safe guarding social amenities
+                        We engage in peace building education amongst the youth<br>
+                        We educate the youth on nation building, patriotic culture and safe guarding social amenities
                         in their communities.<br>
                         We promote youth participation in productive activities to encourage a dignified and sustainable
                         lifestyle.<br>
