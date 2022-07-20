@@ -141,8 +141,8 @@
                 <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
                     <b> Educate</b><br>
 
-                    We engage in peace building education amongst the youths to reduce the
-                    prospects of conflicts in our communities. We also educate the youths on
+                    We engage in peace building education amongst the youth to reduce the
+                    prospects of conflicts in our communities. We also educate the youth on
                     nation building, patriotic culture
                     and safe guarding the nations gains (including the physical social amenities
                     in their communities).<br>

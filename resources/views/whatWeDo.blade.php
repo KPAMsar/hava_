@@ -114,9 +114,9 @@
 
                     </p>
                     <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block 
-                        sm-width-100">Based on the mobilization done for the #Endsars protest,
-                        the collaboration, accountability, compassion and connection. We believe we can
-                        together change our world,
+                        sm-width-100">With our organised team, collaborations,accountability,compassion and 
+                        connections, we believe we can together
+                         change our world,
                         one person at a time through sharing love in deeds, peacebuilding and
                         sponsored social mobility .
 
