@@ -276,8 +276,8 @@
                                                 </a>
                                                 <hr>
                                                 <ul class="dropdown-menu font-weight-300">
-                                                    <li><a href="{{route('livingForACourse')}}" title="Next Program">Living
-                                                            For A Course</a></li>
+                                                    <li><a href="{{route('livingForACourse')}}" title="Next Program">Ahava Food Pantry Launch
+                            </a></li>
 
 
                                                 </ul>

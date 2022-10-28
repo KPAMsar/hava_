@@ -27,20 +27,14 @@
                             <img src="css/icons/vision.png">
 
                             <h5 class="alt-font font-weight-600">Our Vision</h5>
-                            <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">We
-                                envision an equal and peaceful society,
-                                devoid of poverty.
-                                </span>
+                            <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">Improving living standards & tackling the root causes of socioeconomic crimes through a relational concept.
                                 <br /><br />
                                 <!-- <a  onclick="myFunctionn()" id="myBtnn" ><span class="text-medium text-deep-pink">Read More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a></p> -->
                         </div>
                         <div class="col- col-xl-6 text-white col-lg-6  col-md-12 last-paragraph-no-margin">
                             <img src="css/icons/mission.png">
                             <h5 class="alt-font font-weight-600">Our Mission</h5>
-                            <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">To bridge the
-                                gap between people of all social and financial backgrounds
-                                through the reorientation of mindsets on values and developing an interdependent
-                                culture.
+                            <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">We are reorganizing the social and economic system through bridging the gap between people of all social and financial backgrounds, sharing, reorientating on values and productivity then empowering individuals in their transformed versions.
                                 </span>
                                 <br /><br />
                                 <!-- <a  onclick="myFunctionn()" id="myBtnn" ><span class="text-medium text-deep-pink">Read More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a></p> -->

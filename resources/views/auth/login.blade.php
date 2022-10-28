@@ -14,18 +14,6 @@
     <link rel="stylesheet" href="../../plugins/icheck-bootstrap/icheck-bootstrap.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="{{ url('css/adminlte.min.css')}}">
-
-    <style>
-
-body{font-family: 'Dosis', sans-serif;
-     -webkit-font-smoothing: antialiased !important; 
-     -moz-font-smoothing: antialiased!important; 
-      font-size:14px;
-       color:#6f6f6f;
-        font-weight: 500;
-        line-height: 24px;}
-body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
-    </style>
 </head>
 
 <body class="hold-transition login-page">
