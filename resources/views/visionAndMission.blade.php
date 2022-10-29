@@ -27,7 +27,7 @@
                             <img src="css/icons/vision.png">
 
                             <h5 class="alt-font font-weight-600">Our Vision</h5>
-                            <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">Improving living standards & tackling the root causes of socioeconomic crimes through a relational concept.
+                            <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">Improving living standards & tackling the root causes of socioeconomic crimes.
                                 <br /><br />
                                 <!-- <a  onclick="myFunctionn()" id="myBtnn" ><span class="text-medium text-deep-pink">Read More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a></p> -->
                         </div>

@@ -21,12 +21,14 @@
                                     Ahava Development Initiative (ADI)</h1>
                                 <h class="text-extra-dark-gray text-large margin-four-bottom text-align-center
                                          sm-margin-15px-bottom  font-size-30px slider_txt">Is a non-profit organisation
-                                    contributing towards societal transformation through the reorientation of
-                                    mindsets on
-                                    values and developing an inter-reliant culture. We are building an inclusive
-                                    society through shifting the human understanding toward compassion and
-                                    connection which will bridge the gap between people of all social and financial
-                                    backgrounds.</h>
+                                    contributing to societal transformation.We seek to tackle the root causes of socio economic crimes 
+                                    in Nigeria, which we believe to be, poverty, hunger, inequality, competitiveness in which relationships 
+                                    are undermined, decline in social values specifically ethics that emphasize honesty and justice. The vast
+                                     social and economic disparity in the country has led to anger, tension, violence, and outright criminality;
+                                      We are also concerned with the radicalization of children into terrorism in some instances. The crisis 
+                                      in Nigeria is not mainly a financial or intellectual crisis, it is more of a moral, 
+                                    cultural, ideological and relational crisis which has resulted to the resistance to economic development and progress. 
+                                     </h>
                             </div>
                         </div>
                     </div>
@@ -41,10 +43,14 @@
                             <div class="slider-text-middle">
                                 <h1 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80  text-align-center padding-left-40px  margin-35px-bottom lg-width-30 md-width-30 lg-line-height-auto sm-width-100  sm-margin-50px-top sm-margin-15px-bottom slider_txt">
                                 </h1>
-                                <h class="text-extra-dark-gray text-large margin-four-bottom text-align-center sm-margin-15px-bottom  font-size-30px slider_txt " style="font-size:2em;"> We do this through sharing,
-                                    educating, advocating and mobilising. We believe our methodology is a
-                                    comprehensive and sustainable approach to
-                                    tackling poverty, inequality and national rift. </h>
+                                <h class="text-extra-dark-gray text-large margin-four-bottom text-align-center sm-margin-15px-bottom  font-size-30px slider_txt " > 
+                                 We are championing a relational revolution, reorientating individuals’ mindsets on productivity and values, 
+                                then empowering them in their transformed versions.
+                                We are promoting the adjustment of social programs that are compatible with the demands faced by developing
+                                 nations in 
+                                the 21st century. Hence, we design community-based interventions that prioritises relational well-being, 
+                                brotherliness, productivity, moral order, virtue and communion rather than competition,display, power, or greed.
+ </h>
                             </div>
                         </div>
                     </div>
@@ -61,7 +67,7 @@
                                 <h1 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80  text-align-center padding-left-40px  margin-35px-bottom lg-width-30 md-width-30 lg-line-height-auto sm-width-100  sm-margin-50px-top sm-margin-15px-bottom slider_txt">
                                     Our Vision</h1>
                                 <h class="text-extra-dark-gray text-large margin-four-bottom text-align-center sm-margin-15px-bottom  font-size-30px slider_txt" style="font-size:30px;">
-                                  Improving living standards & tackling the root causes of socioeconomic crimes through a relational concept.</h>
+                                  Improving living standards & tackling the root causes of socioeconomic crimes.</h>
                             </div>
                         </div>
                     </div>
@@ -123,8 +129,9 @@
 
                 <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
                     <b> We Share</b><br>
-                    We share simple acts of love which includes providing basic life essentials
-                    and relief to families living below the poverty line and encourage others to do same.
+                    We share simple acts of kindness through our livelihood program, such as  providing basic 
+                    life essentials and relief to families living below the poverty line and encourage others to do same.
+
                 </div>
             </div>
         </div>
@@ -213,7 +220,7 @@
             <div class="col- col-xl-6 text-white col-lg-6 col-md-12  last-paragraph-no-margin">
                 <img src="css/icons/vision.png">
                 <h5 class="alt-font font-weight-600">Our Vision</h5>
-                <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">Improving living standards & tackling the root causes of socioeconomic crimes through a relational concept.
+                <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">Improving living standards & tackling the root causes of socioeconomic crimes.
                     </span>
                     <br /><br />
                     <!-- <a  onclick="myFunctionn()" id="myBtnn" ><span class="text-medium text-deep-pink">Read More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a></p> -->
