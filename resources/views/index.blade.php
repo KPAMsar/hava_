@@ -23,11 +23,7 @@
                                          sm-margin-15px-bottom  font-size-30px slider_txt">Is a non-profit organisation
                                     contributing to societal transformation.We seek to tackle the root causes of socio economic crimes 
                                     in Nigeria, which we believe to be, poverty, hunger, inequality, competitiveness in which relationships 
-                                    are undermined, decline in social values specifically ethics that emphasize honesty and justice. The vast
-                                     social and economic disparity in the country has led to anger, tension, violence, and outright criminality;
-                                      We are also concerned with the radicalization of children into terrorism in some instances. The crisis 
-                                      in Nigeria is not mainly a financial or intellectual crisis, it is more of a moral, 
-                                    cultural, ideological and relational crisis which has resulted to the resistance to economic development and progress. 
+                                    are undermined, decline in social values specifically ethics that emphasize honesty and justice. 
                                      </h>
                             </div>
                         </div>
@@ -254,87 +250,53 @@
                 </div>
                 
             </div> -->
-        <div class="row justify-content-center">
-            <div class="col-12 col-xl-8 col-lg-12 text-extra-dark-gray 
-                text-center last-paragraph-no-margin">
-                <h5 class="alt-font  font-weight-600 obj" style="padding-top: 10%;">Our Programs </h5>
-            </div>
-        </div>
-        <div class="row position-relative">
-            <div class="swiper-container text-extra-dark-gray swiper-pagination-bottom 
-           
-           
-         blog-slider  
-           
-           black-move blog-slider ">
-                <div class="swiper-wrapper">
-                    <!-- start testimonial item -->
-                    <div class=" col-lg-4  swiper-slide md-margin-four-bottom">
-
-                        <div class="margin-half-all bg-llight-gray border-radius-10 box-shadow-light padding-seven-all sm-padding-30px-all">
-                            <h5 class="alt-font  font-weight-600"> Ahava livelihood and social mobility program</h5>
-                            <p class="mx-auto text-medium font-weight-400 md-margin-15px-bottom sm-margin-20px-bottom">
-                            Our initiative seeks to adopt the Peacebuilding, Conflict prevention
-                          and preventive diplomacy model which undertakes activities that vary from 
-                          broad and long-term, to targeted and short-term, and can be employed simultaneously. Our 
-                          preventive work is to 
-                          urge restraint and facilitate the de-escalation that paves the way for reconciliation.
-                                <a href="{{ route('livelihood')}}"><span class="text-medium text-deep-pink">More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a>
-                            </p>
-
-                        </div>
-                    </div>
-                    <!-- end testimonial item -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    <!-- start testimonial item -->
-                    <div class=" col-lg-4 swiper-slide md-margin-four-bottom">
-                        <div class="margin-half-all bg-llight-gray border-radius-10 box-shadow-light padding-seven-all sm-padding-30px-all">
-                            <h5 class="alt-font  font-weight-600">Ahava Social Fund Management </h5>
-                            <p class="mx-auto text-medium font-weight-400 md-margin-15px-bottom sm-margin-20px-bottom">
-                                A fund management pool for socially conscious investors we operate on a businesslike
-                                approach of private equities to operate. We are a credible philanthropic
-                                fund manager for donors to help them increase the positive impact of philanthropic
-                                giving.</p>
-                            <a href=""><span class="text-medium text-deep-pink">More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a>
-                        </div>
-                    </div>
-                    <!-- end testimonial item -->
-
-                    <div class=" col-lg-4  swiper-slide md-margin-four-bottom">
-                        <div class="margin-half-all bg-llight-gray border-radius-10 box-shadow-light padding-seven-all sm-padding-30px-all">
-                            <h5 class="alt-font  font-weight-600">Ahava Patroitism and Peacebuilding Program</h5>
-                            <p class="mx-auto text-medium font-weight-400 md-margin-15px-bottom sm-margin-20px-bottom">
-                                A place where we can educate a future generation of peacebuilders. And a space to
-                                transform our mindset. Empowering civic action toward a culture of peace, compassion
-                                and values.</p>
-                            <a href="ahava-love.html"><span class="text-medium text-deep-pink">More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a>
-                        </div>
-                    </div>
-                    <!-- end testimonial item -->
-
-                    <!-- end testimonial item -->
+       
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-xl-8 col-lg-9 text-extra-dark-gray
+                     text-center last-paragraph-no-margin">
+                    <h5 class="alt-font  font-weight-600">DONATE </h5>
                 </div>
             </div>
+            <div class="row justify-content-center">
+                <div class="col-12 col-xl-9 col-lg-9 text-extra-dark-gray margin-six-bottom  last-paragraph-no-margin">
+                    <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block 
+                        sm-width-100">To support our work on the reorientation of mindsets on values, promote
+                        equality and peaceful co-existence which will tackle poverty and reorganise
+                        our socio economic system. You can start by loving people around you, sharing
+                        simple acts of love to someone, listening to the unheard voices around you and
+                        recognising a potential where others see hopelessness. You can also extend basic
+                        assistance to the under-privileged communities Nigeria and Africa through our
+                        livelihood project, social mobility program, first aid program, entrepreneurial
+                        training, nationalism and
+                        peace building program. With your support we can shoulder the cost of our projects.
+
+                    </p>
+
+
+                </div>
+
+                <div class="width-100 mx-auto text-medium font-weight-400 d-inline-block sm-width-100">
+                    <a href="donate.html">
+                        <div class="row">
+                            <div class="col-12 text-center sm-margin-30px-bottom md-margin-30px-bottom">
+                                <input type="submit"
+                                    class="btn btn-transparent-donate btn-large btn-rounded margin-20px-top"
+                                    value="Donate Here" name="Donate">
+                            </div>
+
+                        </div>
+                    </a>
+                </div>
+
+
+
+
+
+
+
+            </div>
+
         </div>
 
     </div>

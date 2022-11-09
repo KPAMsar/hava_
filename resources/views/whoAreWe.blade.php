@@ -21,6 +21,11 @@
                         in nation building and safe guarding national gains. We are focused on shifting the human
                         understanding towards the culture of compassion, connection, nationalism and peaceful
                         co-existence.
+                        The vast
+social and economic disparity in the country has led to anger, tension, violence, and outright criminality;
+ We are also concerned with the radicalization of children into terrorism in some instances. The crisis 
+ in Nigeria is not mainly a financial or intellectual crisis, it is more of a moral, 
+cultural, ideological and relational crisis which has resulted to the resistance to economic development and progress.
                     </p>
 
                 </div>
