@@ -249,7 +249,7 @@
                                                     <li><a href="{{route('whatWeDo')}}" title="">What we do</a></li>
                                                     <li><a href="{{route('visionAndMisson')}}" title="">Vision & Mission</a></li>
 
-                                                    <li><a href="{{route('team')}}" title="">Team</a></li>
+                                                    <li><a href="{{route('methodology')}}" title="">Methodology</a></li>
                                                 </ul>
                                             </li>
                                             <hr>
@@ -260,14 +260,11 @@
                                                     Advocacy</a>
                                                 <hr>
                                                 <ul class="dropdown-menu font-weight-300">
-                                                    <li><a href="{{route('livelihood')}}" title="Next Program">Ahava livelihood
-                                                            and social mobility program</a></li>
+                                                    <li><a href="{{route('livelihood')}}" title="Next Program">Ahava livelihood program</a></li>
 
-                                                    <li><a href="{{route('socialFund')}}" title="">Ahava Social Fund
-                                                            Management</a></li>
+                                                    <li><a href="{{route('socialProgamReform')}}" title="">Ahava Social program reform and reorientation on productivity and social values </a></li>
 
-                                                    <li><a href="{{route('patroitism')}}" title="">Ahava Patriotism and
-                                                            peacebuilding program </a></li>
+                                                    <li><a href="{{route('socialFund')}}" title="">Ahava Social Fund and Social mobility Program</a></li>
 
                                                 </ul>
                                             </li>

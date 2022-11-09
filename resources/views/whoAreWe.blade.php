@@ -39,39 +39,27 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-xl-8 col-lg-9 text-extra-dark-gray
                      text-center last-paragraph-no-margin">
-                    <h5 class="alt-font  font-weight-600">DONATE </h5>
+                    <h5 class="alt-font  font-weight-600">OUR TEAM </h5>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-12 col-xl-9 col-lg-9 text-extra-dark-gray margin-six-bottom  last-paragraph-no-margin">
-                    <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block 
-                        sm-width-100">To support our work on the reorientation of mindsets on values, promote
-                        equality and peaceful co-existence which will tackle poverty and reorganise
-                        our socio economic system. You can start by loving people around you, sharing
-                        simple acts of love to someone, listening to the unheard voices around you and
-                        recognising a potential where others see hopelessness. You can also extend basic
-                        assistance to the under-privileged communities Nigeria and Africa through our
-                        livelihood project, social mobility program, first aid program, entrepreneurial
-                        training, nationalism and
-                        peace building program. With your support we can shoulder the cost of our projects.
-
-                    </p>
-
-
-                </div>
-
-                <div class="width-100 mx-auto text-medium font-weight-400 d-inline-block sm-width-100">
-                    <a href="donate.html">
-                        <div class="row">
-                            <div class="col-12 text-center sm-margin-30px-bottom md-margin-30px-bottom">
-                                <input type="submit"
-                                    class="btn btn-transparent-donate btn-large btn-rounded margin-20px-top"
-                                    value="Donate Here" name="Donate">
-                            </div>
-
+            <div class="row justify-content-center margin-six-bottom">
+                    <div class="col-12 col-xl-9 col-lg-9 text-extra-dark-gray margin-six-bottom text-center last-paragraph-no-margin">
+                        <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block sm-width-100"></p>
+                    </div>
+                    <div class="row align-items-center margin-five-bottom">
+                        <div class="col-12 col-lg-4 text-center md-margin-30px-bottom ">
+                            <img src="#" alt="Nadoo Gyula's Picture" class="border-radius-6 w-100">
                         </div>
-                    </a>
+                        <div class="col-12 col-lg-8 padding-eight-lr text-center text-lg-left lg-padding-nine-right md-padding-15px-lr wow fadeInRight" data-wow-delay="0.2s">
+                            <h6 class="alt-font text-medium font-weight-600  mb-0">Nadoo Gyula</h6>
+                            <p class="text-small">Founder</p>
+                            <p class="width-90 mx-auto text-medium font-weight-400 d-inline-block sm-width-90"></p>
+                        </div>
+                    </div>
                 </div>
+
+                
 
 
 

@@ -145,8 +145,9 @@
                 <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
                     <b> Educate</b><br>
 
-                    We engage in peace building education amongst the youth to reduce the
-                    prospects of conflicts in our communities. We also educate the youth on
+                   	We engage in peacebuilding education and community
+                     policing principles amongst the youth to reduce the prospects of crime in the communities in Nigeria.
+                      We also educate the youth on
                     nation building, patriotic culture
                     and safe guarding the nations gains (including the physical social amenities
                     in their communities).<br>
@@ -165,11 +166,15 @@
                         <img src="css/icons/advocate.png"></i></div>
                 <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
                     <b> Advocate</b><br>
+                    	We are championing a relational revolution, reorientating individuals’ mindsets on 
+                    productivity and values, then empowering them in their transformed versions.
+                    We are promoting the adjustment of social programs that are compatible with the demands faced by 
+                    developing nations in the 21st century.
+
                     We fight for social justice. We demand accountable governance
                     on issues relating to the marginalized. We tackle inequalities
-                    that accelerate poverty and promote an inter-reliant culture
-                    through our supported sponsored social mobility, to lift one
-                    person at a time out of poverty.
+                    that accelerate poverty.
+                    We promote moral order, values reorientation and the empowerment of ethical persons
                 </div>
             </div>
         </div>
@@ -335,87 +340,9 @@
     </div>
 </section>
 
-<!--
-       <section class="pb-0 half-section wow fadeIn bg-gradd2 cover-background text-center" id="strategy">
-            <div class="opacity-medium bg-extra-dark-gray"></div>
-        	 <div class="container">
-                <div class="row justify-content-center sm-margin-30px-bottom margin-60px-bottom">
-                    <div class="col-12 col-xl-8 text-white col-lg-9 last-paragraph-no-margin">
-                        <h5 class="alt-font font-weight-600">Our Strategy</h5>
-                        <p class="mx-auto text-medium font-weight-400 d-inline-block sm-width-100">Through a tailored, robust and well-crafted solution, we provide training for select Nigerian undergraduates and also provide them with the opportunity to work in first class organizations cutting across technology, telecommunications, banking, construction, oil & gas and media sectors in Nigeria.<span id="dotss">..</span><span id="moree"><br/><br/>
-                 Candidates are chosen through a well-structured and open process with focus on Nigerian university students who are hardworking, driven and responsible.</span>
-                 <br/><br/>
-                  <a  onclick="myFunctionn()" id="myBtnn" ><span class="text-medium text-deep-pink">Read More&nbsp;&nbsp;<i class="fa fa-arrow-right mr-0" aria-hidden="true"></i></span></a></p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- <section class="highlights wow fadeIn pb-0 position-relative parallax sm-background-image-center" data-stellar-background-ratio="0.5" style="background-image:url('img/bg.jpg'); padding-top:150px!important;" id="gallery">
 
- 			<div class="container">
-     				<h5 class="alt-font  font-weight-600 text-center text-black">Our Gallery</h5>
-
- 		<div class="row position-relative">
-            <div class="swiper-container text-extra-dark-gray swiper-pagination-bottom black-move blog-slider swiper-three-slides">
-                <div class="swiper-wrapper">
-                    <div class="col-lg-4 col-md-6 col-sm-12 swiper-slide swiper-slide-post">
-                        <div class="t" style="height: 340px; background: url(_assets/gallery/Atlantic/IMG_0770.html) center top / cover;  margin-right: 2px; margin-left:2px;" data-swiper-slide-index="3" role="group" aria-label="1 / 14">
-                        <div class="swiper-slide-inner">
-                        <a target="_blank" class="abs_link" href="gallery.html"></a>
-                        <div class="overlay"></div>
-                        <article class="highlights-article">
-                            <h3>Atlantic Hall<br>Outreach</h3>
-                        </article>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 swiper-slide swiper-slide-post">
-                        <div class="" style="height: 340px; background: url(_assets/gallery/Childsville/IMG_5900.html) center top / cover;  margin-right: 2px; margin-left:2px;" data-swiper-slide-index="1" role="group" aria-label="1 / 14">
-                        <div class="swiper-slide-inner">
-                        <a target="_blank" class="abs_link" href="gallery.html"></a>
-                        <div class="overlay"></div>
-                        <article class="highlights-article">
-                            <h3>Childsville<br>Outreach</h3>
-                        </article>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 swiper-slide swiper-slide-post">
-                        <div class="" style="height: 340px; background: url(_assets/gallery/Bridge/DSC_9634.html) center top / cover;  margin-right: 2px; margin-left:2px;" data-swiper-slide-index="2" role="group" aria-label="1 / 14">
-                        <div class="swiper-slide-inner">
-                        <a target="_blank" class="abs_link" href="gallery.html"></a>
-                        <div class="overlay"></div>
-                        <article class="highlights-article">
-                            <h3>Bridge House<br>Outreach</h3>
-                        </article>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 swiper-slide swiper-slide-post">
-                        <div class="t" style="height: 340px; background: url(_assets/gallery/Apen/IMG_7032.html) center top / cover;  margin-right: 2px; margin-left:2px;" data-swiper-slide-index="3" role="group" aria-label="1 / 14">
-                        <div class="swiper-slide-inner">
-                        <a target="_blank" class="abs_link" href="gallery.html"></a>
-                        <div class="overlay"></div>
-                        <article class="highlights-article">
-                            <h3>Apen<br>Outreach</h3>
-                        </article>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-
-        </div>
-  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-
-  <!--<div class="swiper-button-prev-news" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-533e37ec8fa6aa46"><img class="arrow_nav_prev" src="img/arrow.svg"></div>-->
-<!--  <div class="swiper-button-next-news" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-533e37ec8fa6aa46"><img class="arrow_nav_next" src="img/arrow.svg"></div>-->
-<!--  </div>-->
 
 </section> -->
-
-
-
-
 
 <section>
 

@@ -20,8 +20,8 @@ class pageController extends Controller
     public function livingForACourse(){
         return view('livingForACourse');
     }
-    public function patroitism(){
-        return view('patroitism');
+    public function socialProgamReform(){
+        return view('social_program_reform');
     }
     public function socialFundManagement(){
         return view('socialFundManagemenet');
@@ -42,7 +42,9 @@ class pageController extends Controller
         return view('ahavaLivelihood');
     }
  
-
+    public function methodology(){
+        return view('methodology');
+    }
     public function volunteerF(Request $request)
     {
         $data = new volunteer;

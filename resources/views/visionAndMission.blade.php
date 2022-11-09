@@ -83,7 +83,7 @@
                             <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
                                 <b> Generosity</b><br>
 
-                                we just give to all, not to get<br>
+                                We share acts of kindness to all.<br>
 
 
                             </div>
@@ -115,7 +115,8 @@
                                     <img src="css/icons/access.png"></i></div>
                             <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
                                 <b>Inclusivity</b><br>
-                                we practice providing equal access to opportunities and resources
+                                we practice providing equal access to opportunities and resources.We promote equitable 
+                                distribution of economic resoures and gender representation.
                             </div>
                         </div>
                     </div>
@@ -133,11 +134,9 @@
 
 
                                 <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
-                                    <b> Interdependence</b><br>
-                                    we build mutually beneficial relationships<br> with social
-                                    investors and we are<br> mutually reliant <br>on each other so <br>
-                                    that
-                                    value can be created.
+                                    <b> Relational</b><br>
+                                    We exist to solve the relational deficit crises.
+                                    we acknowledge the inter-connectedness of human nature and the important role that relationships play in our lives 
                                 </div>
                             </div>
                         </div>
@@ -154,7 +153,7 @@
                                     <b>Transformational & Development</b><br>
 
                                     we exist for transformational impact,
-                                    empowerment and human development.<br>
+                                    empowerment and human development.We empower only ethical people.<br>
 
 
                                 </div>
@@ -176,22 +175,7 @@
                             </div>
                         </div>
 
-                        <!-- end features box item -->
-                        <!-- start features box item -->
-                        <!-- <div class="col-12 col-lg-3 col-md-3 sm-margin-30px-bottom wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
-                                            <div class="wwd text-medium text-center border-radius-4 position-relative h-100">
-                                                <div class="d-inline-block margin-20px-bottom"><i class="border-color-deep-pink bg-white text-extra-dark-gray border icon-round-medium">
-                                                    <img src="css/icons/mobilize.png"></i></div>
-                                                <div class="text-extra-dark-gray font-weight-400 margin-10px-bottom">
-                                                    <b> Mobilize</b><br>
-                                                    We promote youth participation in productive activities and 
-                                                    encourage dignity of labor. 
-                                                    We also build an inclusive society and further mobilize funding 
-                                                    for social and impactful projects. 
-                                                </div>
-                                            </div>
-                                        </div>
-                     -->
+                      
 
                         <!-- end features box item -->
 
@@ -199,21 +183,7 @@
                     </div>
                 </div>
 
-                <!-- <section class="wow fadeIn pb-0 position-relative parallax sm-background-image-center half-section" data-stellar-background-ratio="0.5" style="background-image:url('img/bg.jpg');">
-                                 <div class="opacity-full bg-dark-gray"></div>
-                            <div class="container" id="whatwedo">
-                                <div class="row justify-content-center margin-two-top">
-                                    <div class="col-12 col-xl-8 text-white col-lg-9 text-center last-paragraph-no-margin">
-                                        <h5 class="alt-font  font-weight-600">What We Do</h5>
-                                        <p class="width-90 mx-auto text-medium font-weight-400 d-inline-block sm-width-100">We are investors in human capital. We do this by organizing workshops both virtually and otherwise with industry experts for Nigerian undergrads. We also further equip them with hands-on work experience through internship placements in multiple industries. </p>
-                                    </div>
-                                </div>
-                                 <div class="row justify-content-center">
-                                    <div class="col-5 col-xl-3 col-sm-4 text-white col-lg-3 text-center">
-                                        <img src="img/bulb.png" alt="bulb" />
-                                    </div>
-                                </div>
-                            </div> -->
+                
             </section>
 
 
@@ -233,7 +203,7 @@
             <div class="col-12 col-xl-9 col-lg-9 text-extra-dark-gray margin-six-bottom  last-paragraph-no-margin">
 
                 <div class="col-12 col-xl-8 col-lg-9 text-extra-dark-gray text-center last-paragraph-no-margin">
-                    <h5 class="alt-font  font-weight-600">OBJECTIVES </h5>
+                    <h5 class="alt-font  font-weight-600">GOALS </h5>
                     <!-- <p style="font-size:1.5em; padding-top: -59px;"><i>Join the wave of love, peace and equality</i></p>
                     -->
                 </div>
@@ -241,21 +211,22 @@
 
                 <p class="width-100 mx-auto text-medium font-weight-400 d-inline-block sm-width-100">
 
-                    • Conduct campaigns to raise awareness on policies that affect the underprivileged to influence
-                    decisions.<br><br>
-                    • Facilitate resourcefulness through increased involvement in productive activities.<br><br>
-                    • Advocate for equal rights to economic resources and strengthening systems of redistribution
+                    • To conduct campaigns on policies that affect the underprivileged and influence
+                    decisions in their favour<br><br>
+                    • To facilitate resourcefulness through increased involvement in productive activities.<br><br>
+                    • To advocate for equal rights to economic resources and strengthening systems of redistribution
                     of resources locally in line
                     with goal 1,10 & 16 of UN sustainable development goals (no poverty, reduced inequalities
                     and peace, justice and strong institutions)<br><br>
-                    • Research on improving intervention strategy and introduce innovative and practical
-                    initiatives to poverty eradication.<br> <br>
-                    • Mobilize support from the higher social and financial class
-                    through supported social mobility program.<br><br>
-                    • Engage in social and economic development programs that will improve the standards of living in
-                    the society.
-                    Promote peace, nationalism and enriching values in the society <br><br>
-                    • Setting up onsite and online Ahava skill hubs for entrepreneurial training.<br><br>
+                    •To Research for 21st century intervention programs and introduce innovative and practical
+                    initiatives that will tackle socio-economic crimes and improve living standards.<br> <br>
+                    •To mobilize support from the higher social and financial class for our social mobility program and to fund initiatives that 
+                    will solve our monumental issues.
+                    <br><br>
+                    • To redesign  social and economic development programs that prioritise relational well being.
+                    <br><br>
+                    •To reorient mindset on values and productivity, promote moral order and empower ethically accountable individuals.
+                    <br><br>
 
                 </p>
 
